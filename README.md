@@ -89,6 +89,14 @@ Mantine: UI library for components such as Card, Carousel, Modal, and more.
 Tabler Icons: Icon library for adding intuitive icons to buttons and links.
 SpaceX API: For retrieving SpaceX launch details.
 
+## 👨‍💻 Credentials:
+
+Username:admin
+Password:password123
+
+then press the submit button to login successfully
+
+
 
 
 
