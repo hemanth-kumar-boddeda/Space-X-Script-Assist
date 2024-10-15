@@ -96,11 +96,4 @@ Password:password123
 
 then press the submit button to login successfully
 
-
-
-
-
-
-
-
-"# Script-Assist-Sapce-X-Code" 
+## Script-Assist-Sapce-X-Code
